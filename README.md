@@ -1,1 +1,1 @@
-# ClaseGitHub
+# Consolidación M2
