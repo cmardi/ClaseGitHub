@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap');
+
+
+
+
+.port-container {
+    max-width: 1070px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.port-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+header{
+    left: 0;
+    right: 0;
+    z-index: 20;
+    transition: .8s;
+    padding: 15px;
+    position: fixed;
+    background-color: var(--bg-color);
+}
+
+header .port-row.header-wrap {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home a{
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: var(--color1);
+}
