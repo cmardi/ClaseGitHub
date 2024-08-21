@@ -36,3 +36,14 @@ header .port-row.header-wrap {
     font-weight: 300;
     color: var(--color1);
 }
+
+.port-navbar {
+    display: none;
+}
+
+.navbar-toggle i {
+font-size: 1.25rem;
+line-height: 30px;
+cursor: pointer;
+color: var(--color1);
+}
