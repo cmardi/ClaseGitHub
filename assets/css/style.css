@@ -2,8 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap');
 
 
-
-
 .port-container {
     max-width: 1070px;
     margin: 0 auto;
@@ -23,7 +21,7 @@ header{
     transition: .8s;
     padding: 15px;
     position: fixed;
-    background-color: var(--bg-color);
+    background-color: var(--color1);
 }
 
 header .port-row.header-wrap {
@@ -31,11 +29,6 @@ header .port-row.header-wrap {
     align-items: center;
 }
 
-.home a{
-    font-size: 1.25rem;
-    font-weight: 300;
-    color: var(--color1);
-}
 
 .port-navbar {
     display: none;
